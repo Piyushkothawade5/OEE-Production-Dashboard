@@ -18,7 +18,7 @@ Try it yourself with demo credentials:
 
 | Field | Value |
 |---|---|
-| Employee ID | SP001 |
+| Employee ID | ADM002 |
 | PIN | 1234 |
 
 > Demo runs on a separate Supabase project with anonymised sample data. No real company data is exposed.
