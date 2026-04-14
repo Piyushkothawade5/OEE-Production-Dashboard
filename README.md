@@ -12,7 +12,7 @@ A full-stack web application that digitised shop-floor production reporting for 
 
 ## 🔗 Live Demo
 
-👉 **[YOUR_VERCEL_URL_HERE]([YOUR_VERCEL_URL_HERE](https://supabase.com/dashboard/project/ildmuecozjprzxrvcgbu))**
+👉  **[Visit Live App](https://oee-production-dashboard1.vercel.app/)**
 
 Try it yourself with demo credentials:
 
