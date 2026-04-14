@@ -180,7 +180,7 @@ REACT_APP_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 **Piyush Ramesh Kothawade**
 Data Analyst · AI Automation Specialist
-[LinkedIn](https://www.linkedin.com/in/piyush-kothawade/) · [Portfolio](https://codebasics.io/portfolio/PiyushKothawade)
+[LinkedIn](https://www.linkedin.com/in/piyush-kothawade/) · [Portfolio](https://codebasics.io/portfolio/Piyush-Kothawade)
 
 ---
 
