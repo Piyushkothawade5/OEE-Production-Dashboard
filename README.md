@@ -1,9 +1,8 @@
 # 🏭 Production OEE Tracker
 ### Built for Shubhada Polymers Pvt. Ltd. — Live since November 2024
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-orange?style=for-the-badge)](YOUR_VERCEL_URL_HERE)
-[![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)](https://reactjs.org)
-[![Supabase](https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge)](https://supabase.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-orange?style=for-the-badge)]([YOUR_VERCEL_URL_HERE](https://oee-production-dashboard1.vercel.app/))
+[![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)]([https://reactjs.org](https://oee-production-dashboard1.vercel.app/))
 
 A full-stack web application that digitised shop-floor production reporting for a manufacturing company. Supervisors enter shift data from their mobile phones; management sees live OEE, rejection trends, and machine performance in real time — replacing 2+ hours of daily paper-based reporting.
 
@@ -13,7 +12,7 @@ A full-stack web application that digitised shop-floor production reporting for 
 
 ## 🔗 Live Demo
 
-👉 **[YOUR_VERCEL_URL_HERE](YOUR_VERCEL_URL_HERE)**
+👉 **[YOUR_VERCEL_URL_HERE]([YOUR_VERCEL_URL_HERE](https://supabase.com/dashboard/project/ildmuecozjprzxrvcgbu))**
 
 Try it yourself with demo credentials:
 
