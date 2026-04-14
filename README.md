@@ -28,8 +28,7 @@ Try it yourself with demo credentials:
 ## 📸 Screenshots
 
 ### Login — Role-based access
-![Login Screen](<img width="562" height="543" alt="image" src="https://github.com/user-attachments/assets/106d2aab-faaa-4878-819f-de8bbf09edfb" />
-)
+![Login Screen](<img width="562" height="543" alt="image" src="https://github.com/user-attachments/assets/106d2aab-faaa-4878-819f-de8bbf09edfb" />)
 *Employee ID + PIN authentication. Accounts created by Admin. Three roles: Admin, Supervisor, Manager.*
 
 ### New Entry — Mobile-friendly data entry
