@@ -97,6 +97,22 @@ src/
 └── styles.js                # Global styles
 
 supabase/                    # DB schema and RLS policies
+├── cron/
+│   ├── setup_management_reports.sql
+├── functions/
+│   ├── employee-admin
+│       ├──index.ts
+│   ├── management-report
+│       ├──index.ts
+├── migrations/
+│   ├── 20260407_phase3.sql
+
+├──.env
+├──.gitignore
+├──README.md
+├──package-lock.json
+├──package.json
+   
 ```
 
 ---
