@@ -28,7 +28,7 @@ Try it yourself with demo credentials:
 ## 📸 Screenshots
 
 ### Login — Role-based access
-![Login Screen](screens/Screenshot 2026-04-14 235001.png)
+![Login Screen](screens/login.png)
 
 *Employee ID + PIN authentication. Accounts created by Admin. Three roles: Admin, Supervisor, Manager.*
 
