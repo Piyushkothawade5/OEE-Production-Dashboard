@@ -45,7 +45,8 @@ Try it yourself with demo credentials:
 *Real-time: Total Production, Overall OEE (A×P×Q), Good Output, Rejection Rate, Top Supervisor, Most Rejected Item. Filterable by date, shift, machine, supervisor, and part.*
 
 ### Analysis — Trends and Pareto charts
-![Analysis](screens/analysis.png)
+![Analysis](screens/analysis1.png)
+![Analysis](screens/analysis2.png)
 *Daily OEE trend, Production trend, Rejection rate trend. Downtime Pareto + Rejection Pareto with cumulative % bars. Machine/Supervisor/Part league tables with full OEE breakdown.*
 
 ### Admin Panel — Master data management
