@@ -1,5 +1,5 @@
 # 🏭 Production OEE Tracker
-### Built for Shubhada Polymers Pvt. Ltd. — Live since November 2024
+### Built for Shubhada Polymers Pvt. Ltd. — Live since Apr 2026
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-orange?style=for-the-badge)](https://oee-production-dashboard1.vercel.app/)
 [![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)](https://reactjs.org)
